@@ -14,10 +14,8 @@ Follow these steps to set up the project locally:
 
 ```bash
 # Clone the repository
-git clone 
+git clone https://github.com/jyo143/APIWIZ_webapp.git
 
-# Navigate into the project directory
-cd 
 
 # Install dependencies
 npm install
